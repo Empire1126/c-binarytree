@@ -1,0 +1,6 @@
+C:\2510-Luke Pinkney-Thomas\convertedjav\console app(converted java)\bin\Debug\console app(converted java).exe.config
+C:\2510-Luke Pinkney-Thomas\convertedjav\console app(converted java)\obj\Debug\console app(converted java).csprojResolveAssemblyReference.cache
+C:\2510-Luke Pinkney-Thomas\convertedjav\console app(converted java)\bin\Debug\console app(converted java).exe
+C:\2510-Luke Pinkney-Thomas\convertedjav\console app(converted java)\bin\Debug\console app(converted java).pdb
+C:\2510-Luke Pinkney-Thomas\convertedjav\console app(converted java)\obj\Debug\console app(converted java).exe
+C:\2510-Luke Pinkney-Thomas\convertedjav\console app(converted java)\obj\Debug\console app(converted java).pdb
